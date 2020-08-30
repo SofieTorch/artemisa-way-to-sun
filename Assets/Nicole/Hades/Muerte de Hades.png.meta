@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 157ae7bfa1fccec4299f9dd3b86ad597
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7960292953360811098
+    second: Muerte de Hades_0
+  - first:
+      213: -1338942414355458345
+    second: Muerte de Hades_1
+  - first:
+      213: 8260881224128869666
+    second: Muerte de Hades_2
+  - first:
+      213: 4127154484339826633
+    second: Muerte de Hades_3
+  - first:
+      213: 754155645477758713
+    second: Muerte de Hades_4
+  - first:
+      213: 3791313845429151964
+    second: Muerte de Hades_5
+  - first:
+      213: 7654580635391891761
+    second: Muerte de Hades_6
+  - first:
+      213: 3478035614527988659
+    second: Muerte de Hades_7
+  - first:
+      213: -44650971125205443
+    second: Muerte de Hades_8
+  - first:
+      213: 5003078553575336373
+    second: Muerte de Hades_9
+  - first:
+      213: 6885554099336064785
+    second: Muerte de Hades_10
+  - first:
+      213: -335685285550898309
+    second: Muerte de Hades_11
+  - first:
+      213: -7737767883267979823
+    second: Muerte de Hades_12
+  - first:
+      213: 5985133036152186597
+    second: Muerte de Hades_13
+  - first:
+      213: 3069636205405096826
+    second: Muerte de Hades_14
+  - first:
+      213: 7170485142646500964
+    second: Muerte de Hades_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Muerte de Hades_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1364
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da49623f042db4c82a609abc76cab0
+      internalID: -7960292953360811098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1056
+        width: 253
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53d041830fd59f4e9a941c502fa16a9
+      internalID: -1338942414355458345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1056
+        width: 253
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e30ffde1cabd3241a2785ca3af53cb4
+      internalID: 8260881224128869666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1056
+        width: 253
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c92fa3ecaeee714b954ed4da4cf2675
+      internalID: 4127154484339826633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_4
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1056
+        width: 253
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23fe4cceceba164ab24047ad09d83af
+      internalID: 754155645477758713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 704
+        width: 253
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5155aa266f3d19f4b990ad6067015051
+      internalID: 3791313845429151964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 704
+        width: 253
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9479d214f947bb04ea476227999ee74e
+      internalID: 7654580635391891761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_7
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 704
+        width: 253
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d1477c1665de8408223769270d7d7d
+      internalID: 3478035614527988659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_8
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 704
+        width: 253
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a7bf8ef07e24048952c9fadf296632
+      internalID: -44650971125205443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 352
+        width: 253
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff53f4b2f8838743a4102aa2c37adf1
+      internalID: 5003078553575336373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 352
+        width: 253
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1195718228795444bca69550fac2836
+      internalID: 6885554099336064785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 451
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a189e743f468514fb216ab66a033f5d
+      internalID: -335685285550898309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_12
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 352
+        width: 209
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36fea93c787e684da35b3cc529ef2e6
+      internalID: -7737767883267979823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_13
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 352
+        width: 209
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce3726103d593d47a9e70bf4d1b3efb
+      internalID: 5985133036152186597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 209
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed33c7d70f48b142be94a14b503a2f1
+      internalID: 3069636205405096826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Muerte de Hades_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 209
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40778244c9422224485548169006a8eb
+      internalID: 7170485142646500964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
