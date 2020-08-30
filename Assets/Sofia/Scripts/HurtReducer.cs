@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SofiaScript : MonoBehaviour
+public class HurtReducer : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -14,5 +14,12 @@ public class SofiaScript : MonoBehaviour
     void Update()
     {
         
+    }
+
+    void OnCollisionEnter2D(Collision2D other){
+        if(other.transform.CompareTag("Player")){
+            // Destroy(other.gameObject);
+            // other.gameObject.Morir();
+        }
     }
 }
