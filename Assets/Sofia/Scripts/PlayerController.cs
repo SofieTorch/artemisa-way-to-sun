@@ -3,9 +3,12 @@ using System.Collections.Generic;
 using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
+    public int coins = 0;
+
     [SerializeField]
     float speed = 5f;
     [SerializeField]

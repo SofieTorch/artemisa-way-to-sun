@@ -12,10 +12,10 @@ GameObject:
   - component: {fileID: 2697631455144943061}
   - component: {fileID: 2697631455144943060}
   - component: {fileID: 2697631455144943056}
-  - component: {fileID: 2697631455144943063}
+  - component: {fileID: 3166369614294851918}
   m_Layer: 0
   m_Name: coins_animation_0
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -129,7 +129,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.1, y: 0.11}
   m_EdgeRadius: 0
---- !u!114 &2697631455144943063
+--- !u!114 &3166369614294851918
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
