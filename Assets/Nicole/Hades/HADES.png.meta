@@ -1,0 +1,2230 @@
+fileFormatVersion: 2
+guid: 6f58ae616bd1e2b48b0ed78051722f99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8943619603468477849
+    second: HADES_0
+  - first:
+      213: 472740908906526756
+    second: HADES_1
+  - first:
+      213: -2724529288745072681
+    second: HADES_2
+  - first:
+      213: -6781929445137207515
+    second: HADES_3
+  - first:
+      213: -211203924461038242
+    second: HADES_4
+  - first:
+      213: -6945993230683731059
+    second: HADES_5
+  - first:
+      213: -1455570579417954233
+    second: HADES_6
+  - first:
+      213: -1261808533451044419
+    second: HADES_7
+  - first:
+      213: -1842995798766924397
+    second: HADES_8
+  - first:
+      213: -3930679359357774919
+    second: HADES_9
+  - first:
+      213: -285862456721992257
+    second: HADES_10
+  - first:
+      213: -7661212080564801059
+    second: HADES_11
+  - first:
+      213: 6108446601050489630
+    second: HADES_12
+  - first:
+      213: 6385271658766594593
+    second: HADES_13
+  - first:
+      213: -4286907526938540350
+    second: HADES_14
+  - first:
+      213: -4650445037183576828
+    second: HADES_15
+  - first:
+      213: -5889937917902724791
+    second: HADES_16
+  - first:
+      213: 2222116401364371484
+    second: HADES_17
+  - first:
+      213: -1579744600446815471
+    second: HADES_18
+  - first:
+      213: -4099839970291219915
+    second: HADES_19
+  - first:
+      213: -3071420303077819821
+    second: HADES_20
+  - first:
+      213: -915452421040894856
+    second: HADES_21
+  - first:
+      213: -4871036413086438784
+    second: HADES_22
+  - first:
+      213: -7436065813472305
+    second: HADES_23
+  - first:
+      213: 6195914680509473245
+    second: HADES_24
+  - first:
+      213: -1851531564649683562
+    second: HADES_25
+  - first:
+      213: 7707648979829652259
+    second: HADES_26
+  - first:
+      213: 1710301867843689338
+    second: HADES_27
+  - first:
+      213: 6880488369768823828
+    second: HADES_28
+  - first:
+      213: -979571503640973978
+    second: HADES_29
+  - first:
+      213: 4059955786026320698
+    second: HADES_30
+  - first:
+      213: 7347648555904561018
+    second: HADES_31
+  - first:
+      213: -1789299295437735119
+    second: HADES_32
+  - first:
+      213: 5251704947572496128
+    second: HADES_33
+  - first:
+      213: -886540134517749988
+    second: HADES_34
+  - first:
+      213: -5898605875153392978
+    second: HADES_35
+  - first:
+      213: 8313587490374929156
+    second: HADES_36
+  - first:
+      213: 3113317276521940263
+    second: HADES_37
+  - first:
+      213: 2619709224171466932
+    second: HADES_38
+  - first:
+      213: -1500727659604072574
+    second: HADES_39
+  - first:
+      213: -3212984638627885622
+    second: HADES_40
+  - first:
+      213: 1055477183280435583
+    second: HADES_41
+  - first:
+      213: -1872190811182484692
+    second: HADES_42
+  - first:
+      213: 637619735124270065
+    second: HADES_43
+  - first:
+      213: 866880373441698577
+    second: HADES_44
+  - first:
+      213: -1524970501038737033
+    second: HADES_45
+  - first:
+      213: -1634312095582989942
+    second: HADES_46
+  - first:
+      213: -8325442870808575895
+    second: HADES_47
+  - first:
+      213: -4650324412315121071
+    second: HADES_48
+  - first:
+      213: 608291563866657112
+    second: HADES_49
+  - first:
+      213: -5424180766927661359
+    second: HADES_50
+  - first:
+      213: -3146702244384870711
+    second: HADES_51
+  - first:
+      213: -246702135592624425
+    second: HADES_52
+  - first:
+      213: -1178156716228095711
+    second: HADES_53
+  - first:
+      213: -7711398385911509913
+    second: HADES_54
+  - first:
+      213: -732689820966314209
+    second: HADES_55
+  - first:
+      213: 3672519407649808550
+    second: HADES_56
+  - first:
+      213: -747409841223188787
+    second: HADES_57
+  - first:
+      213: 5118654971407013297
+    second: HADES_58
+  - first:
+      213: 479169976091051905
+    second: HADES_59
+  - first:
+      213: -878553784350429387
+    second: HADES_60
+  - first:
+      213: 2180859123687412873
+    second: HADES_61
+  - first:
+      213: 7973425037506104976
+    second: HADES_62
+  - first:
+      213: -7493285749512674781
+    second: HADES_63
+  - first:
+      213: 2256721642128180548
+    second: HADES_64
+  - first:
+      213: 6818176094424609847
+    second: HADES_65
+  - first:
+      213: 4109192033714091052
+    second: HADES_66
+  - first:
+      213: 4665471550976059381
+    second: HADES_67
+  - first:
+      213: -7966620995990870268
+    second: HADES_68
+  - first:
+      213: 1174682958230935464
+    second: HADES_69
+  - first:
+      213: 232687757950607795
+    second: HADES_70
+  - first:
+      213: -277657189059360260
+    second: HADES_71
+  - first:
+      213: 1300900561632598330
+    second: HADES_72
+  - first:
+      213: 8239664006026641507
+    second: HADES_73
+  - first:
+      213: -3526080742614653237
+    second: HADES_74
+  - first:
+      213: -2174986246362571564
+    second: HADES_75
+  - first:
+      213: 3593659673658285929
+    second: HADES_76
+  - first:
+      213: -2149859297964241726
+    second: HADES_77
+  - first:
+      213: 1446109979921436827
+    second: HADES_78
+  - first:
+      213: -2106046525280602791
+    second: HADES_79
+  - first:
+      213: -9177128938354988621
+    second: HADES_80
+  - first:
+      213: -7069914736933823358
+    second: HADES_81
+  - first:
+      213: 8373202605917254783
+    second: HADES_82
+  - first:
+      213: -8147067382697806898
+    second: HADES_83
+  - first:
+      213: -5914481888319613565
+    second: HADES_84
+  - first:
+      213: -7236183954140666681
+    second: HADES_85
+  - first:
+      213: 4953894755104685746
+    second: HADES_86
+  - first:
+      213: 2205391811187809374
+    second: HADES_87
+  - first:
+      213: 7057057622597785443
+    second: HADES_88
+  - first:
+      213: 768498663395099746
+    second: HADES_89
+  - first:
+      213: -1958594247850887589
+    second: HADES_90
+  - first:
+      213: -75903817142414517
+    second: HADES_91
+  - first:
+      213: 813389719591135363
+    second: HADES_92
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HADES_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1749
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15c8f41a95b6244cbf7f893def3b035
+      internalID: -8943619603468477849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1749
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d684a26a684d748a02d66707ab36a2
+      internalID: 472740908906526756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1749
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d31e95d3a9cbb499009d99f341a1f0
+      internalID: -2724529288745072681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_3
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1749
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9791ff1ff7e2214a9a46158425152dd
+      internalID: -6781929445137207515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1727
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ae89e09988b4c489d964bc7db9c393
+      internalID: -211203924461038242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1727
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e90fab5d573b1542a3d18091943c87a
+      internalID: -6945993230683731059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1727
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75770f95b5b705469f1626166270767
+      internalID: -1455570579417954233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_7
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1727
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a22fc433eb6fb4690866b3026c4b16
+      internalID: -1261808533451044419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_8
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1727
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3fcb7766cccca448866ea52c7df441
+      internalID: -1842995798766924397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_9
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1727
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717729f5a2ca6dc48975b4a80b376fcc
+      internalID: -3930679359357774919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_10
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1727
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4826404a860d904ebf64c1aa9938aa1
+      internalID: -285862456721992257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_11
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1727
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5c1415db55244fb2770013f9a44a2
+      internalID: -7661212080564801059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1716
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b87bd3c2976d24495dbaec74a5924f
+      internalID: 6108446601050489630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_13
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1716
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3827fc2b7dba844beb2fcf18c81791
+      internalID: 6385271658766594593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_14
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1716
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ae7bffd5895e4f8af9b7608b7ddd6
+      internalID: -4286907526938540350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_15
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1716
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4af7131d4381544bd315bf60c29d89
+      internalID: -4650445037183576828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1408
+        width: 293
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706ea5ab1e1863944b39c45604192f65
+      internalID: 2222116401364371484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1408
+        width: 294
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa6fb6a55a5c0f4e9b355be4fa04710
+      internalID: -4099839970291219915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_21
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1408
+        width: 295
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119d8dbcf7a74b148bf4e1e4b78d9f84
+      internalID: -915452421040894856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_23
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1408
+        width: 303
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9234869a7cb5c42afceb065d464516
+      internalID: -7436065813472305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_24
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1441
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea84ea3a175944db9603358ad654af
+      internalID: 6195914680509473245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1375
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9413f6c07b63f2a42b89f5b16ec8e1f0
+      internalID: -1851531564649683562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1375
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a55f67d6b5ce942999eff8e2c5dc17
+      internalID: 7707648979829652259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1375
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e168fda86d30374a8ade0707df7c593
+      internalID: 1710301867843689338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_28
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1375
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf4aaf3be626b4c92919f41f0c71b3
+      internalID: 6880488369768823828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_29
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1375
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507b4d780ded1d34a973650ecc767f61
+      internalID: -979571503640973978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_30
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1375
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cb45b9fb5f5f741915373777c4d9d6
+      internalID: 4059955786026320698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_31
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1375
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca3b8f2216d61c43ae9c146b4846db6
+      internalID: 7347648555904561018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_32
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1375
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe71e55f35591a43b9ffe6292bb7a24
+      internalID: -1789299295437735119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1364
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d53b177a6bfb7c4eaaa052626d7bf1d
+      internalID: 5251704947572496128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_34
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1364
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce23962fbf28245a8a71a1e997abc0
+      internalID: -886540134517749988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_35
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1364
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173a37e9fd4813c41904058c5272dc66
+      internalID: -5898605875153392978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_36
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1364
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3225d34f18005f40855e13336de24df
+      internalID: 8313587490374929156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1056
+        width: 298
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a79d3a14ef56f49a4719ba9ae92cf5
+      internalID: 2619709224171466932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_39
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1056
+        width: 253
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6339b1630aec7234ebf2f3c5f083e246
+      internalID: -1500727659604072574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_40
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1056
+        width: 253
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f8b4035a289df45aa2ae87d7547e95
+      internalID: -3212984638627885622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_41
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1056
+        width: 220
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa1aa87c0429547aaab22bce4ce8da
+      internalID: 1055477183280435583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1089
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f570a4ab635e349b40a3a2eaae165a
+      internalID: -1872190811182484692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1023
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada056fd1d1b42c4087cb8d5f23886eb
+      internalID: 637619735124270065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1023
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caf38333468ee449b787faafb2b6969
+      internalID: 866880373441698577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_45
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1023
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdd21b0e71ead841b9b36e8fef9027d
+      internalID: -1524970501038737033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1023
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8e53a24ff927c4191127c282d95b66
+      internalID: -1634312095582989942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_47
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1023
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c12973e8ffff54ead39911cf615bef
+      internalID: -8325442870808575895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_48
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1023
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59117c2201c76349af80e34a1b2fb57
+      internalID: -4650324412315121071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_49
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1023
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae424f21f200a945bb2d407ea2f69bd
+      internalID: 608291563866657112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_50
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1023
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aafd655d1632b142a04c630af83721c
+      internalID: -5424180766927661359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1012
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0350050891079454887a93ed83a377c5
+      internalID: -3146702244384870711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_52
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1012
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dc89d6ff74ec74a9e14623770827ee
+      internalID: -246702135592624425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_53
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1012
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0183159f6bf01479fa963d35a740e0
+      internalID: -1178156716228095711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_54
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1012
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d46685195538244384a2a548e77886a
+      internalID: -7711398385911509913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 704
+        width: 242
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acef788e17c58c647bf68dfbcdc08a79
+      internalID: -732689820966314209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_56
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 803
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b78a350834cf7346846e4fcf556149d
+      internalID: 3672519407649808550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_57
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 704
+        width: 242
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0b63c41d8954444b06335a63b77a08
+      internalID: -747409841223188787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_58
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 792
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b3017396d34eb4f9fa62d773fd98d7
+      internalID: 5118654971407013297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_59
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 869
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ce651dac00ed34d922b4cf1dbef06c
+      internalID: 479169976091051905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_60
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 704
+        width: 242
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36222f6f089c89b43b05316ae4adaa80
+      internalID: -878553784350429387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_61
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 704
+        width: 253
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45e4964d70329849ad45eff373a5e46
+      internalID: 2180859123687412873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 814
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c3e1df3a77e7d40a402ae8159df677
+      internalID: 7973425037506104976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_63
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 770
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583a0d900addd6f47b5a6ed3c036e892
+      internalID: -7493285749512674781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 671
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcea5806650fbfe4f9946b032d12a8b1
+      internalID: 2256721642128180548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 671
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05077fa5bc150e74387acf47843c8225
+      internalID: 6818176094424609847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_66
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 671
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c6842c66ea90459ee4aff7509de6b
+      internalID: 4109192033714091052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_67
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 671
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3416d69c410a5f145be0bd0c381f09f7
+      internalID: 4665471550976059381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_68
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 671
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c8cdd6271a23a4b94b284100146912
+      internalID: -7966620995990870268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_69
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 671
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff618919d5130b540ae03bdbb967ef10
+      internalID: 1174682958230935464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_70
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 671
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe309995063a886428483654341b54bd
+      internalID: 232687757950607795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_71
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 671
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c8401cf76afa41a0e41b26862356e
+      internalID: -277657189059360260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 660
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9434ab3dfa7d954684dad901cd9f516
+      internalID: 1300900561632598330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_73
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 660
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad0bc5c6fb0102438048e15b217eb34
+      internalID: 8239664006026641507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_74
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 660
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c1dd81f467df4daf4fbb9f4cbd204
+      internalID: -3526080742614653237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_75
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 660
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ddea472a62ca240a2da2afe006755d
+      internalID: -2174986246362571564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 352
+        width: 253
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ef1324ff43d8647a9773a9556903c9
+      internalID: 3593659673658285929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_77
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 352
+        width: 253
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af97a306ffb262439f604f91ce26f9a
+      internalID: -2149859297964241726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_78
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 352
+        width: 220
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773e85459ebcaaf44acd69551b13e8a5
+      internalID: 1446109979921436827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_79
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 462
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc01b807441a21409be76237b11c8d8
+      internalID: -2106046525280602791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_80
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 352
+        width: 242
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566bc524773e0943bcd221652a27b28
+      internalID: -9177128938354988621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 319
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56566f45646c54d45a9b0f90bcd97aae
+      internalID: -7069914736933823358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_82
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 319
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c811414be2821c45b34464aa1db8a64
+      internalID: 8373202605917254783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 319
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1cfc10b7f32b849a4b2bf92f391651
+      internalID: -8147067382697806898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_84
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 319
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e9d162f88fb86448fa41b6cceac4fa
+      internalID: -5914481888319613565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_85
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 308
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9850d577ea0a654896b5393de7a9890
+      internalID: -7236183954140666681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_86
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 308
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263c45c2b6c0734396c9ab9f258744a
+      internalID: 4953894755104685746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_87
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 99
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6006b0df43e6a484595c3de2ec8ec027
+      internalID: 2205391811187809374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_88
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 242
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c5de8d3d0a4da49867541cb56761d5
+      internalID: 7057057622597785443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_89
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 88
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c441bf2c448d4409cd26dc6cb16f42
+      internalID: 768498663395099746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_90
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 165
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a988002e84ab4409600aeb00d77b1c
+      internalID: -1958594247850887589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_91
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 242
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ee09f4be016864ebd8a1134271feee
+      internalID: -75903817142414517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HADES_92
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 66
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a32f48ba279014d804e2158870bc64
+      internalID: 813389719591135363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
