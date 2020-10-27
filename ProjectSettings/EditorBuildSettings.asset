@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Nicole/NivelNiky.unity
+    guid: f0239c26ffd38914d8bd681cab54c02b
+  - enabled: 1
+    path: Assets/Valeria/nivelVale.unity
+    guid: ddf96ae7d563581449056df8641ddee8
+  - enabled: 1
+    path: Assets/Sofia/scenes/nivelSofi.unity
+    guid: 284ff905f1d276a43b0c9f4f11738cd5
+  - enabled: 1
+    path: Assets/Scenes/apolo.unity
+    guid: 3351c7b4b1407114b841fe6da896ab92
   m_configObjects: {}
